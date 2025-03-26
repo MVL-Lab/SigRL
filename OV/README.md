@@ -24,16 +24,16 @@ NUS-WIDE
   └── test_img_names.pkl
 ```
 
-## Training MKT on NUS-WIDE
+## Training on NUS-WIDE
 
 ```bash
-python3 train_nus_first_stage.py 
+python3 train_nus.py 
 ```
 
-## Testing MKT on NUS-WIDE
+## Testing on NUS-WIDE
 
 ```bash
-python3 engine_nus_first_stage
+python3 engine_nus.py
 ```
 
 ## Acknowledgement
