@@ -1,6 +1,5 @@
 ## Semantic-guided Representation Learning for Multi-Label Recognition (ICME 2025)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/MVL-Lab/SigRL)
 [![Visits Badge](https://badges.pufler.dev/visits/MVL-Lab/SigRL)](https://badges.pufler.dev/visits/MVL-Lab/SigRL)
