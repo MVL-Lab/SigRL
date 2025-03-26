@@ -20,7 +20,7 @@ Multi-label Recognition (MLR) involves assigning multiple labels to each data in
 ```
 
 
-## Single Positive Multi-label Learning
+## Single Positive Multi-label Learning (SPML)
 
 ```
 Single-Positive Multi-label Learning (SPML) is a weakly supervised machine learning paradigm where each training instance is annotated with only one positive label.
@@ -32,7 +32,17 @@ To train the Single Positive Multi-label Learning task:
 see in ./SPML/README.md
 ```
 
+## Open Vocabulary (OV) + Vision and Language Pre-training (VLP) + Multi-Label Tasks 
 
+```
+VLP models have demonstrated exceptional performance in multimodal tasks, offering a promising approach for transferring linguistic knowledge from base categories to support OV tasks through prompt learning.
+```
+
+To train the Open Vocabulary task：
+
+```
+see in ./OV/README.md
+```
 
 ## Acknowledgement
 
