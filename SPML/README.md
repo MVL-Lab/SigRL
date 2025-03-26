@@ -69,3 +69,5 @@ python main_clip.py
 ## Acknowledgement:
 Many thanks to the authors of [Vision-Language Pseudo-Labels for Single-Positive Multi-Label Learning](https://github.com/mvrl/VLPL).[single-positive-multi-label](https://github.com/elijahcole/single-positive-multi-label) and [SPML-AckTheUnknown
 ](https://github.com/Correr-Zhou/SPML-AckTheUnknown).
+
+Our scripts are highly based on their scripts.
