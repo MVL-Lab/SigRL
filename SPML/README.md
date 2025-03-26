@@ -64,7 +64,6 @@ Run `main_clip.py` to train and evaluate a model:
 ```
 python main_clip.py 
 ```
-## Results:
 
 ## Acknowledgement:
 Many thanks to the authors of [Vision-Language Pseudo-Labels for Single-Positive Multi-Label Learning](https://github.com/mvrl/VLPL).[single-positive-multi-label](https://github.com/elijahcole/single-positive-multi-label) and [SPML-AckTheUnknown
