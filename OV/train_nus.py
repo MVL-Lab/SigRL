@@ -13,7 +13,7 @@ from util.misc import *
 from util.dataset import build_dataloader
 from util.optimizer import build_optimizer
 from models.clip_vit import CLIPVIT
-from engine_nus_first_stage import train, test
+from engine_nus import train, test
 
 torch.backends.cudnn.enabled = False
 
